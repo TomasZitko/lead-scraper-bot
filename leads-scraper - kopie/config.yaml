@@ -1,0 +1,50 @@
+niches:
+  restaurants:
+    keywords_cz: ["restaurace", "restaurant", "hostinec"]
+    keywords_en: ["restaurant", "bistro"]
+  hair_salons:
+    keywords_cz: ["kadeřnictví", "hair salon"]
+    keywords_en: ["hair salon", "hairdresser"]
+  cafes:
+    keywords_cz: ["kavárna", "café"]
+    keywords_en: ["cafe", "coffee shop"]
+  nail_studios:
+    keywords_cz: ["nehtové studio", "manikúra"]
+    keywords_en: ["nail studio", "nail salon"]
+
+locations:
+  - Praha
+  - Brno
+  - Ostrava
+
+scraping:
+  max_results_per_niche: 500
+  delay_between_requests: 2
+  timeout: 30
+  retry_attempts: 3
+  use_google_api: false  # Set to true if API key provided
+
+google_maps:
+  api_key: ""
+
+output:
+  format: "excel"
+  filename_pattern: "{niche}_{location}_{date}.xlsx"
+  include_columns:
+    - business_name
+    - address
+    - city
+    - phone
+    - email
+    - website
+    - instagram
+    - facebook
+    - google_rating
+    - priority_score
+    - notes
+
+scoring:
+  no_website: 100
+  poor_website: 75
+  no_email: 50
+  no_social: 25
