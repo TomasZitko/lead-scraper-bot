@@ -1,0 +1,179 @@
+2025-10-11 20:55:14 | INFO     | 🚀 Starting Professional Lead Scraper
+2025-10-11 20:55:14 | INFO     | Target: 20 restaurants in Liberec
+2025-10-11 20:55:14 | INFO     | 🕵️  Initializing stealth browser...
+2025-10-11 20:55:39 | INFO     | ✅ Stealth browser initialized successfully!
+2025-10-11 20:55:39 | INFO     | Started session #1
+2025-10-11 20:55:39 | INFO     | 🔍 Searching Google Maps: restaurace Liberec
+2025-10-11 20:56:00 | INFO     | ✓ Found results with selector: div[role='feed']
+2025-10-11 20:56:08 | INFO     | ✓ Collected 20 listings after 3 scrolls
+2025-10-11 20:56:08 | INFO     | 📋 Found 20 listings to process
+2025-10-11 20:56:44 | INFO     |    Processing 10/20...
+2025-10-11 20:57:22 | INFO     |    Processing 20/20...
+2025-10-11 20:57:28 | INFO     | ✅ Found 20 businesses
+2025-10-11 20:57:28 | INFO     | Scraping websites for 18 businesses
+2025-10-11 20:57:35 | WARNING  | Error scraping website http://www.fabrica-liberec.cz/: HTTPSConnectionPool(host='www.fabrica-liberec.cz', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))
+2025-10-11 20:58:43 | INFO     | Website scraping complete: 18 businesses processed
+2025-10-11 20:58:43 | INFO     | Scoring 18 leads
+2025-10-11 20:58:43 | INFO     | Priority distribution:
+2025-10-11 20:58:43 | INFO     |   IMMEDIATE OPPORTUNITY: 3 (16.7%)
+2025-10-11 20:58:43 | INFO     |   HIGH PRIORITY: 2 (11.1%)
+2025-10-11 20:58:43 | INFO     |   MEDIUM PRIORITY: 2 (11.1%)
+2025-10-11 20:58:43 | INFO     |   LOW PRIORITY: 11 (61.1%)
+2025-10-11 20:58:43 | INFO     | Exporting 18 businesses to data\exports\restaurants_Liberec_2025-10-11_20-58.xlsx
+2025-10-11 20:58:44 | INFO     | ✓ Export complete: data\exports\restaurants_Liberec_2025-10-11_20-58.xlsx
+2025-10-11 20:58:45 | INFO     | ✓ Browser closed
+2025-10-11 21:13:42 | INFO     | 🚀 Starting Professional Lead Scraper
+2025-10-11 21:13:42 | INFO     | Target: 200 restaurants in Liberec
+2025-10-11 21:13:42 | INFO     | 🕵️  Initializing stealth browser...
+2025-10-11 21:13:47 | ERROR    | Failed to init stealth browser: <urlopen error [WinError 10054] Stávající připojení bylo vynuceně ukončeno vzdáleným hostitelem>
+2025-10-11 21:13:47 | WARNING  | Stealth browser init failed: <urlopen error [WinError 10054] Stávající připojení bylo vynuceně ukončeno vzdáleným hostitelem>
+2025-10-11 21:13:47 | INFO     | Started session #2
+2025-10-11 21:13:47 | INFO     | ⊘ Skipping Liberec (restaurace) - already scraped recently
+2025-10-11 21:13:47 | WARNING  | Selenium not available
+2025-10-11 21:14:34 | INFO     | 🚀 Starting Professional Lead Scraper
+2025-10-11 21:14:34 | INFO     | Target: 200 restaurants in Liberec
+2025-10-11 21:14:34 | INFO     | 🕵️  Initializing stealth browser...
+2025-10-11 21:14:51 | INFO     | ✅ Stealth browser initialized successfully!
+2025-10-11 21:14:51 | INFO     | Started session #3
+2025-10-11 21:14:51 | INFO     | ⊘ Skipping Liberec (restaurace) - already scraped recently
+2025-10-11 21:14:51 | INFO     | ⊘ Skipping Liberec (restaurant) - already scraped recently
+2025-10-13 17:08:21 | INFO     | 🚀 Starting Professional Lead Scraper
+2025-10-13 17:08:21 | INFO     | Target: 200 restaurants in Praha
+2025-10-13 17:08:21 | INFO     | 🕵️  Initializing stealth browser...
+2025-10-13 17:08:30 | INFO     | ✅ Stealth browser initialized successfully!
+2025-10-13 17:08:30 | INFO     | Started session #4
+2025-10-13 17:08:30 | INFO     | 🔍 Searching Google Maps: restaurace Praha 1
+2025-10-13 17:08:44 | INFO     | ✓ Found results with selector: div[role='feed']
+2025-10-13 17:08:50 | INFO     | ✓ Collected 18 listings after 2 scrolls
+2025-10-13 17:08:50 | INFO     | 📋 Found 18 listings to process
+2025-10-13 17:09:28 | INFO     |    Processing 10/18...
+2025-10-13 17:09:45 | INFO     | ✅ Found 13 businesses
+2025-10-13 17:09:49 | INFO     | 🔍 Searching Google Maps: restaurant Praha 1
+2025-10-13 17:10:06 | INFO     | ✓ Found results with selector: div[role='feed']
+2025-10-13 17:10:12 | INFO     | ✓ Collected 6 listings after 1 scrolls
+2025-10-13 17:10:12 | INFO     | 📋 Found 6 listings to process
+2025-10-13 17:10:35 | INFO     | ✅ Found 0 businesses
+2025-10-13 17:10:40 | INFO     | 🔍 Searching Google Maps: restaurace Praha 2
+2025-10-13 17:10:57 | INFO     | ✓ Found results with selector: div[role='feed']
+2025-10-13 17:11:03 | INFO     | ✓ Collected 10 listings after 1 scrolls
+2025-10-13 17:11:03 | INFO     | 📋 Found 10 listings to process
+2025-10-13 17:11:41 | INFO     |    Processing 10/10...
+2025-10-13 17:11:45 | INFO     | ✅ Found 10 businesses
+2025-10-13 17:11:48 | INFO     | 🔍 Searching Google Maps: restaurant Praha 2
+2025-10-13 17:12:04 | INFO     | ✓ Found results with selector: div[role='feed']
+2025-10-13 17:12:09 | INFO     | ✓ Collected 10 listings after 1 scrolls
+2025-10-13 17:12:09 | INFO     | 📋 Found 10 listings to process
+2025-10-13 17:12:45 | INFO     |    Processing 10/10...
+2025-10-13 17:12:49 | INFO     | ✅ Found 10 businesses
+2025-10-13 17:12:54 | INFO     | 🔍 Searching Google Maps: restaurace Praha 3
+2025-10-13 17:13:12 | INFO     | ✓ Found results with selector: div[role='feed']
+2025-10-13 17:13:17 | INFO     | ✓ Collected 10 listings after 1 scrolls
+2025-10-13 17:13:17 | INFO     | 📋 Found 10 listings to process
+2025-10-13 17:13:55 | INFO     |    Processing 10/10...
+2025-10-13 17:13:59 | INFO     | ✅ Found 10 businesses
+2025-10-13 17:14:02 | INFO     | 🔍 Searching Google Maps: restaurant Praha 3
+2025-10-13 17:14:19 | INFO     | ✓ Found results with selector: div[role='feed']
+2025-10-13 17:14:24 | INFO     | ✓ Collected 10 listings after 1 scrolls
+2025-10-13 17:14:24 | INFO     | 📋 Found 10 listings to process
+2025-10-13 17:14:59 | INFO     |    Processing 10/10...
+2025-10-13 17:15:04 | INFO     | ✅ Found 10 businesses
+2025-10-13 17:15:09 | INFO     | 🔍 Searching Google Maps: restaurace Praha 4
+2025-10-13 17:15:26 | INFO     | ✓ Found results with selector: div[role='feed']
+2025-10-13 17:15:30 | INFO     | ✓ Collected 10 listings after 1 scrolls
+2025-10-13 17:15:30 | INFO     | 📋 Found 10 listings to process
+2025-10-13 17:16:04 | INFO     |    Processing 10/10...
+2025-10-13 17:16:09 | INFO     | ✅ Found 10 businesses
+2025-10-13 17:16:12 | INFO     | 🔍 Searching Google Maps: restaurant Praha 4
+2025-10-13 17:16:29 | INFO     | ✓ Found results with selector: div[role='feed']
+2025-10-13 17:16:34 | INFO     | ✓ Collected 10 listings after 1 scrolls
+2025-10-13 17:16:34 | INFO     | 📋 Found 10 listings to process
+2025-10-13 17:17:11 | INFO     |    Processing 10/10...
+2025-10-13 17:17:15 | INFO     | ✅ Found 10 businesses
+2025-10-13 17:17:20 | INFO     | 🔍 Searching Google Maps: restaurace Praha 5
+2025-10-13 17:17:35 | INFO     | ✓ Found results with selector: div[role='feed']
+2025-10-13 17:17:40 | INFO     | ✓ Collected 10 listings after 1 scrolls
+2025-10-13 17:17:40 | INFO     | 📋 Found 10 listings to process
+2025-10-13 17:18:17 | INFO     |    Processing 10/10...
+2025-10-13 17:18:22 | INFO     | ✅ Found 10 businesses
+2025-10-13 17:18:25 | INFO     | 🔍 Searching Google Maps: restaurant Praha 5
+2025-10-13 17:18:41 | INFO     | ✓ Found results with selector: div[role='feed']
+2025-10-13 17:18:46 | INFO     | ✓ Collected 10 listings after 1 scrolls
+2025-10-13 17:18:46 | INFO     | 📋 Found 10 listings to process
+2025-10-13 17:19:24 | INFO     |    Processing 10/10...
+2025-10-13 17:19:28 | INFO     | ✅ Found 10 businesses
+2025-10-13 17:19:33 | INFO     | 🔍 Searching Google Maps: restaurace Praha 6
+2025-10-13 17:19:47 | INFO     | ✓ Found results with selector: div[role='feed']
+2025-10-13 17:19:52 | INFO     | ✓ Collected 6 listings after 1 scrolls
+2025-10-13 17:19:52 | INFO     | 📋 Found 6 listings to process
+2025-10-13 17:20:17 | INFO     | ✅ Found 6 businesses
+2025-10-13 17:20:20 | INFO     | 🔍 Searching Google Maps: restaurant Praha 6
+2025-10-13 17:20:37 | INFO     | ✓ Found results with selector: div[role='feed']
+2025-10-13 17:20:42 | INFO     | ✓ Collected 10 listings after 1 scrolls
+2025-10-13 17:20:42 | INFO     | 📋 Found 10 listings to process
+2025-10-13 17:21:18 | INFO     |    Processing 10/10...
+2025-10-13 17:21:22 | INFO     | ✅ Found 10 businesses
+2025-10-13 17:21:27 | INFO     | 🔍 Searching Google Maps: restaurace Praha 7
+2025-10-13 17:21:43 | INFO     | ✓ Found results with selector: div[role='feed']
+2025-10-13 17:21:48 | INFO     | ✓ Collected 10 listings after 1 scrolls
+2025-10-13 17:21:48 | INFO     | 📋 Found 10 listings to process
+2025-10-13 17:22:26 | INFO     |    Processing 10/10...
+2025-10-13 17:22:30 | INFO     | ✅ Found 10 businesses
+2025-10-13 17:22:33 | INFO     | 🔍 Searching Google Maps: restaurant Praha 7
+2025-10-13 17:22:49 | INFO     | ✓ Found results with selector: div[role='feed']
+2025-10-13 17:22:54 | INFO     | ✓ Collected 10 listings after 1 scrolls
+2025-10-13 17:22:54 | INFO     | 📋 Found 10 listings to process
+2025-10-13 17:23:29 | INFO     |    Processing 10/10...
+2025-10-13 17:23:33 | INFO     | ✅ Found 10 businesses
+2025-10-13 17:23:38 | INFO     | 🔍 Searching Google Maps: restaurace Praha 8
+2025-10-13 17:23:53 | INFO     | ✓ Found results with selector: div[role='feed']
+2025-10-13 17:23:58 | INFO     | ✓ Collected 10 listings after 1 scrolls
+2025-10-13 17:23:58 | INFO     | 📋 Found 10 listings to process
+2025-10-13 17:24:34 | INFO     |    Processing 10/10...
+2025-10-13 17:24:39 | INFO     | ✅ Found 10 businesses
+2025-10-13 17:24:42 | INFO     | 🔍 Searching Google Maps: restaurant Praha 8
+2025-10-13 17:24:56 | INFO     | ✓ Found results with selector: div[role='feed']
+2025-10-13 17:25:01 | INFO     | ✓ Collected 10 listings after 1 scrolls
+2025-10-13 17:25:01 | INFO     | 📋 Found 10 listings to process
+2025-10-13 17:25:39 | INFO     |    Processing 10/10...
+2025-10-13 17:25:43 | INFO     | ✅ Found 10 businesses
+2025-10-13 17:25:48 | INFO     | 🔍 Searching Google Maps: restaurace Praha 9
+2025-10-13 17:26:05 | INFO     | ✓ Found results with selector: div[role='feed']
+2025-10-13 17:26:09 | INFO     | ✓ Collected 10 listings after 1 scrolls
+2025-10-13 17:26:09 | INFO     | 📋 Found 10 listings to process
+2025-10-13 17:26:49 | INFO     |    Processing 10/10...
+2025-10-13 17:26:53 | INFO     | ✅ Found 10 businesses
+2025-10-13 17:26:56 | INFO     | 🔍 Searching Google Maps: restaurant Praha 9
+2025-10-13 17:27:13 | INFO     | ✓ Found results with selector: div[role='feed']
+2025-10-13 17:27:18 | INFO     | ✓ Collected 10 listings after 1 scrolls
+2025-10-13 17:27:18 | INFO     | 📋 Found 10 listings to process
+2025-10-13 17:27:56 | INFO     |    Processing 10/10...
+2025-10-13 17:27:59 | INFO     | ✅ Found 10 businesses
+2025-10-13 17:28:04 | INFO     | 🔍 Searching Google Maps: restaurace Praha 10
+2025-10-13 17:28:21 | INFO     | ✓ Found results with selector: div[role='feed']
+2025-10-13 17:28:24 | INFO     | ✓ Collected 16 listings after 1 scrolls
+2025-10-13 17:28:24 | INFO     | 📋 Found 16 listings to process
+2025-10-13 17:29:00 | INFO     |    Processing 10/16...
+2025-10-13 17:29:16 | INFO     | ✅ Found 13 businesses
+2025-10-13 17:29:19 | INFO     | 🔍 Searching Google Maps: restaurant Praha 10
+2025-10-13 17:29:36 | INFO     | ✓ Found results with selector: div[role='feed']
+2025-10-13 17:29:41 | INFO     | ✓ Collected 10 listings after 1 scrolls
+2025-10-13 17:29:41 | INFO     | 📋 Found 10 listings to process
+2025-10-13 17:30:18 | INFO     |    Processing 10/10...
+2025-10-13 17:30:22 | INFO     | ✅ Found 10 businesses
+2025-10-13 17:30:27 | INFO     | 🔍 Searching Google Maps: restaurace Praha 11
+2025-10-13 17:30:42 | INFO     | ✓ Found results with selector: div[role='feed']
+2025-10-13 17:30:47 | INFO     | ✓ Collected 10 listings after 1 scrolls
+2025-10-13 17:30:47 | INFO     | 📋 Found 10 listings to process
+2025-10-13 17:31:20 | INFO     |    Processing 10/10...
+2025-10-13 17:31:24 | INFO     | ✅ Found 10 businesses
+2025-10-13 17:31:25 | INFO     | Scraping websites for 4 businesses
+2025-10-13 17:31:35 | INFO     | Website scraping complete: 4 businesses processed
+2025-10-13 17:31:35 | INFO     | Scoring 4 leads
+2025-10-13 17:31:35 | INFO     | Priority distribution:
+2025-10-13 17:31:35 | INFO     |   IMMEDIATE OPPORTUNITY: 3 (75.0%)
+2025-10-13 17:31:35 | INFO     |   HIGH PRIORITY: 0 (0.0%)
+2025-10-13 17:31:35 | INFO     |   MEDIUM PRIORITY: 0 (0.0%)
+2025-10-13 17:31:35 | INFO     |   LOW PRIORITY: 1 (25.0%)
+2025-10-13 17:31:35 | INFO     | Exporting 4 businesses to data\exports\restaurants_Praha_2025-10-13_17-31.xlsx
+2025-10-13 17:31:36 | INFO     | ✓ Export complete: data\exports\restaurants_Praha_2025-10-13_17-31.xlsx
+2025-10-13 17:31:40 | INFO     | ✓ Browser closed

@@ -1,0 +1,56 @@
+2025-10-11 14:47:50 - czech_scraper - INFO - Attempting to initialize Selenium WebDriver...
+2025-10-11 14:47:54 - czech_scraper - INFO - ✓ Selenium initialized successfully
+2025-10-11 14:47:54 - czech_scraper - INFO - Searching Google Maps for: restaurace Praha
+2025-10-11 14:48:01 - czech_scraper - ERROR - Error in Selenium Maps search: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div[role='feed']"}
+  (Session info: chrome=140.0.7339.208); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7cc333+65459]
+	GetHandleVerifier [0x0x7cc374+65524]
+	(No symbol) [0x0x5ed973]
+	(No symbol) [0x0x6376e7]
+	(No symbol) [0x0x637a8b]
+	(No symbol) [0x0x67dea2]
+	(No symbol) [0x0x659e44]
+	(No symbol) [0x0x67b606]
+	(No symbol) [0x0x659bf6]
+	(No symbol) [0x0x62b38e]
+	(No symbol) [0x0x62c274]
+	GetHandleVerifier [0x0xa4eda3+2697763]
+	GetHandleVerifier [0x0xa49ec7+2677575]
+	GetHandleVerifier [0x0x7f4194+228884]
+	GetHandleVerifier [0x0x7e49f8+165496]
+	GetHandleVerifier [0x0x7eb18d+192013]
+	GetHandleVerifier [0x0x7d47d8+99416]
+	GetHandleVerifier [0x0x7d4972+99826]
+	GetHandleVerifier [0x0x7bebea+10346]
+	BaseThreadInitThunk [0x0x75ce5d49+25]
+	RtlInitializeExceptionChain [0x0x7736d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7736d661+561]
+
+2025-10-11 14:48:04 - czech_scraper - INFO - Searching Google Maps for: restaurant Praha
+2025-10-11 14:48:11 - czech_scraper - ERROR - Error in Selenium Maps search: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div[role='feed']"}
+  (Session info: chrome=140.0.7339.208); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7cc333+65459]
+	GetHandleVerifier [0x0x7cc374+65524]
+	(No symbol) [0x0x5ed973]
+	(No symbol) [0x0x6376e7]
+	(No symbol) [0x0x637a8b]
+	(No symbol) [0x0x67dea2]
+	(No symbol) [0x0x659e44]
+	(No symbol) [0x0x67b606]
+	(No symbol) [0x0x659bf6]
+	(No symbol) [0x0x62b38e]
+	(No symbol) [0x0x62c274]
+	GetHandleVerifier [0x0xa4eda3+2697763]
+	GetHandleVerifier [0x0xa49ec7+2677575]
+	GetHandleVerifier [0x0x7f4194+228884]
+	GetHandleVerifier [0x0x7e49f8+165496]
+	GetHandleVerifier [0x0x7eb18d+192013]
+	GetHandleVerifier [0x0x7d47d8+99416]
+	GetHandleVerifier [0x0x7d4972+99826]
+	GetHandleVerifier [0x0x7bebea+10346]
+	BaseThreadInitThunk [0x0x75ce5d49+25]
+	RtlInitializeExceptionChain [0x0x7736d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7736d661+561]
+
