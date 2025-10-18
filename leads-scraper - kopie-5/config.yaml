@@ -1,0 +1,239 @@
+niches:
+  # Food & Beverage
+  restaurants:
+    keywords_cz: ["restaurace", "restaurant", "hostinec"]
+    keywords_en: ["restaurant", "bistro", "dining"]
+  
+  cafes:
+    keywords_cz: ["kavárna", "café", "cukrárna"]
+    keywords_en: ["cafe", "coffee shop", "coffeehouse"]
+  
+  bars:
+    keywords_cz: ["bar", "pub", "vinárna", "pivnice"]
+    keywords_en: ["bar", "pub", "wine bar"]
+  
+  bakeries:
+    keywords_cz: ["pekárna", "pekařství"]
+    keywords_en: ["bakery", "bakehouse"]
+
+  # Beauty & Wellness
+  hair_salons:
+    keywords_cz: ["kadeřnictví", "kaderník", "hair salon"]
+    keywords_en: ["hair salon", "hairdresser", "barber"]
+  
+  nail_studios:
+    keywords_cz: ["nehtové studio", "manikúra", "pedikúra"]
+    keywords_en: ["nail studio", "nail salon", "manicure"]
+  
+  beauty_salons:
+    keywords_cz: ["kosmetika", "kosmetický salon", "salon krásy"]
+    keywords_en: ["beauty salon", "beauty studio", "cosmetics"]
+  
+  massage_studios:
+    keywords_cz: ["masáže", "masážní salon"]
+    keywords_en: ["massage", "massage studio", "spa"]
+  
+  tattoo_studios:
+    keywords_cz: ["tetování", "tattoo studio"]
+    keywords_en: ["tattoo", "tattoo studio", "ink"]
+
+  # Health & Medical
+  dental_clinics:
+    keywords_cz: ["zubní ordinace", "zubař", "stomatologie"]
+    keywords_en: ["dental clinic", "dentist", "dental care"]
+  
+  physiotherapy:
+    keywords_cz: ["fyzioterapie", "rehabilitace"]
+    keywords_en: ["physiotherapy", "physical therapy", "rehab"]
+  
+  veterinary:
+    keywords_cz: ["veterinář", "veterinární ordinace"]
+    keywords_en: ["veterinary", "vet clinic", "animal clinic"]
+
+  # Fitness & Sports
+  fitness_gyms:
+    keywords_cz: ["fitness", "posilovna", "fitcentrum"]
+    keywords_en: ["gym", "fitness center", "fitness studio"]
+  
+  personal_trainers:
+    keywords_cz: ["osobní trenér", "personal trainer", "fitness trenér"]
+    keywords_en: ["personal trainer", "fitness coach", "PT"]
+  
+  yoga_studios:
+    keywords_cz: ["jóga", "yoga studio"]
+    keywords_en: ["yoga", "yoga studio", "pilates"]
+  
+  martial_arts:
+    keywords_cz: ["bojové umění", "karate", "judo"]
+    keywords_en: ["martial arts", "karate", "boxing gym"]
+  
+  crossfit:
+    keywords_cz: ["crossfit", "funkční trénink"]
+    keywords_en: ["crossfit", "functional training"]
+
+  # Professional Services
+  law_offices:
+    keywords_cz: ["advokát", "advokátní kancelář", "právní poradce"]
+    keywords_en: ["lawyer", "law office", "attorney"]
+  
+  accounting:
+    keywords_cz: ["účetnictví", "daňový poradce"]
+    keywords_en: ["accounting", "accountant", "bookkeeping"]
+  
+  real_estate:
+    keywords_cz: ["realitní kancelář", "reality"]
+    keywords_en: ["real estate", "property agency", "realtor"]
+  
+  insurance:
+    keywords_cz: ["pojišťovna", "pojištění"]
+    keywords_en: ["insurance", "insurance agency"]
+  
+  marketing_agencies:
+    keywords_cz: ["marketingová agentura", "marketing"]
+    keywords_en: ["marketing agency", "digital marketing"]
+  
+  web_design:
+    keywords_cz: ["tvorba webů", "webdesign", "web studio"]
+    keywords_en: ["web design", "web development", "web agency"]
+
+  # Automotive
+  car_repair:
+    keywords_cz: ["autoservis", "automechanik", "pneuservis"]
+    keywords_en: ["car repair", "auto service", "mechanic"]
+  
+  car_wash:
+    keywords_cz: ["myčka aut", "ruční mytí"]
+    keywords_en: ["car wash", "auto detailing"]
+  
+  car_rental:
+    keywords_cz: ["půjčovna aut", "autopůjčovna"]
+    keywords_en: ["car rental", "rent a car"]
+
+  # Home Services
+  plumbers:
+    keywords_cz: ["instalatér", "topenář", "voda topení plyn"]
+    keywords_en: ["plumber", "plumbing", "heating"]
+  
+  electricians:
+    keywords_cz: ["elektrikář", "elektro"]
+    keywords_en: ["electrician", "electrical services"]
+  
+  cleaning:
+    keywords_cz: ["úklid", "úklidová firma"]
+    keywords_en: ["cleaning service", "cleaning company"]
+  
+  florists:
+    keywords_cz: ["květinářství", "květiny"]
+    keywords_en: ["florist", "flower shop", "flowers"]
+  
+  interior_design:
+    keywords_cz: ["interiérový design", "návrh interiérů"]
+    keywords_en: ["interior design", "interior designer"]
+
+  # Retail
+  pet_shops:
+    keywords_cz: ["chovatelské potřeby", "zooobchod"]
+    keywords_en: ["pet shop", "pet store", "pet supplies"]
+  
+  clothing_stores:
+    keywords_cz: ["obchod s oděvy", "butik", "móda"]
+    keywords_en: ["clothing store", "boutique", "fashion"]
+  
+  gift_shops:
+    keywords_cz: ["dárky", "obchod s dárky"]
+    keywords_en: ["gift shop", "gifts", "souvenirs"]
+  
+  jewelry_stores:
+    keywords_cz: ["klenotnictví", "šperky"]
+    keywords_en: ["jewelry store", "jeweler", "jewelry"]
+
+  # Education
+  language_schools:
+    keywords_cz: ["jazyková škola", "kurzy jazyků"]
+    keywords_en: ["language school", "language courses"]
+  
+  music_schools:
+    keywords_cz: ["hudební škola", "hudební studio"]
+    keywords_en: ["music school", "music lessons"]
+  
+  tutoring:
+    keywords_cz: ["doučování", "lekce"]
+    keywords_en: ["tutoring", "private lessons", "tutor"]
+  
+  driving_schools:
+    keywords_cz: ["autoškola", "řidičský průkaz"]
+    keywords_en: ["driving school", "driving lessons"]
+
+  # Entertainment & Events
+  event_venues:
+    keywords_cz: ["pronájem prostor", "eventové prostory"]
+    keywords_en: ["event venue", "event space", "party venue"]
+  
+  photo_studios:
+    keywords_cz: ["foto studio", "fotograf"]
+    keywords_en: ["photo studio", "photographer", "photography"]
+  
+  wedding_services:
+    keywords_cz: ["svatební služby", "svatební agentura"]
+    keywords_en: ["wedding services", "wedding planner"]
+  
+  dj_services:
+    keywords_cz: ["DJ", "diskžokej", "hudba na akce"]
+    keywords_en: ["DJ", "disc jockey", "event music"]
+
+  # Accommodation
+  hotels:
+    keywords_cz: ["hotel", "ubytování"]
+    keywords_en: ["hotel", "accommodation"]
+  
+  hostels:
+    keywords_cz: ["hostel", "levné ubytování"]
+    keywords_en: ["hostel", "budget accommodation"]
+  
+  apartments:
+    keywords_cz: ["apartmány", "pronájem bytů"]
+    keywords_en: ["apartments", "apartment rental"]
+
+locations:
+  - Praha
+  - Brno
+  - Ostrava
+  - Plzeň
+  - Liberec
+  - Olomouc
+  - České Budějovice
+  - Hradec Králové
+  - Ústí nad Labem
+  - Pardubice
+
+scraping:
+  max_results_per_niche: 500
+  delay_between_requests: 2
+  timeout: 30
+  retry_attempts: 3
+  use_google_api: false
+
+google_maps:
+  api_key: ""
+
+output:
+  format: "excel"
+  filename_pattern: "{niche}_{location}_{date}.xlsx"
+  include_columns:
+    - business_name
+    - address
+    - city
+    - phone
+    - email
+    - website
+    - instagram
+    - facebook
+    - google_rating
+    - priority_score
+    - notes
+
+scoring:
+  no_website: 100
+  poor_website: 75
+  no_email: 50
+  no_social: 25
